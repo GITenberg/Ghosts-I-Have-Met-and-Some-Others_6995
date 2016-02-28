@@ -1,0 +1,30 @@
+_repo: Ghosts-I-Have-Met-and-Some-Others_6995
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: Ghosts that have haunted me. -- The mystery of my grandmother's hair
+  sofa.- The mystery of Barney O'Rourke.-The exorcism that failed.-Thurlow's Christmas
+  story.-The Dampmere mystery.-Carleton Barker, first and second.
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories, American'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+tableOfContents: Ghosts that have haunted me -- The mystery of my grandmother's hair
+  sofa -- The mystery of Barney O'Rourke -- The exorcism that failed -- Thurlow's
+  Christmas story -- The Dampmere mystery -- Carleton Barker, first and second.
+title: Ghosts I Have Met and Some Others
+url: http://www.gutenberg.org/ebooks/6995
