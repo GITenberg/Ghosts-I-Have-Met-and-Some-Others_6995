@@ -1,4 +1,8 @@
 _repo: Ghosts-I-Have-Met-and-Some-Others_6995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -10,6 +14,8 @@ creator:
 description: Ghosts that have haunted me. -- The mystery of my grandmother's hair
   sofa.- The mystery of Barney O'Rourke.-The exorcism that failed.-Thurlow's Christmas
   story.-The Dampmere mystery.-Carleton Barker, first and second.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6995#Ghosts-I-Have-Met-and-Some-Others
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
